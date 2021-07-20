@@ -1,0 +1,111 @@
+body{
+    background-color: yellow;
+    margin-left:0;
+    margin-right: 0;
+    background:#d1d1d1;
+    text-align: center;
+
+}
+h1{
+    color: black;
+    text-align: left;
+    box-sizing: 4;
+}
+#header{
+    text-align:left;
+    background-color: skyblue;
+    padding: 10px;
+    text-decoration-color: black;
+}
+
+thead{
+    color: black;
+    background-color: pink;
+    text-align: left;
+    font-weight: bold;
+}
+th,td{
+    padding: 10px 15px;
+}
+
+ .pagination {
+  display: inline-block;
+  color: red;
+}
+
+#main-Content{
+    background-color: grey;
+
+}
+.pagination a{
+    
+    display: inline-block;
+    
+}
+#wrapper{
+
+}
+
+    
+
+#menu ul {
+
+     list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+    
+}
+#menu li{
+
+    float: left;
+}
+#menu li a{
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#menu li a.hover{
+    background-color: #111;
+}
+#radio{
+
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+#main-Content .test-form .submit{
+    font-size: 17px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    margin: 0 0 0 0%;
+    cursor: pointer;
+    transition: all 0.3s;
+    text-align: center;
+}
+
+#main-Content .test-form .submit{
+    font-size: 17px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 5px 5px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    margin: 0 0 0 0%;
+    cursor: pointer;
+    text-align: center;
+}
